@@ -12,7 +12,7 @@ This project is a React + Redux based e-commerce website for selling houseplants
 
 ## 📁 GitHub Repository
 
-**[https://github.com/aditya-gosavi/houseplant-store](https://github.com/aditya-gosavi/houseplant-store)**
+**[https://github.com/aditya-gosavi/houseplant-store](https://github.com/Aditya07-G/houseplant-store)**
 
 ---
 
